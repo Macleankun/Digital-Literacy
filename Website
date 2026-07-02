@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Links</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f0f2f5; text-align: center; padding: 50px; }
+        .card { background: white; padding: 30px; border-radius: 10px; max-width: 400px; margin: 0 auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h1 { color: #333; }
+        .btn { display: block; background: #007bff; color: white; padding: 10px; margin: 10px 0; text-decoration: none; border-radius: 5px; }
+        .btn:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Jane Doe</h1>
+        <p>Welcome to my corner of the internet!</p>
+        <a href="https://github.com" class="btn" target="_blank">My GitHub</a>
+        <a href="https://linkedin.com" class="btn" target="_blank">My LinkedIn</a>
+    </div>
+</body>
+</html>
+Create index.html
